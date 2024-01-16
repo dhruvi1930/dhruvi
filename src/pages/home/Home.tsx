@@ -72,7 +72,7 @@ const Home = (): JSX.Element => {
             text="Resume"
             callback={() =>
               handleClick(
-                "https://drive.google.com/file/d/1pz4AMTglAsCH6Yo8Yb5XM2j0tGHr8u_t/view?usp=sharing"
+                "https://drive.google.com/file/d/1Iod0Rb7ZBca-DSn6qYCFoB6yRHf0FZZB/view?usp=sharing"
               )
             }
           />
